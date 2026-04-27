@@ -1,9 +1,12 @@
 # Narrative Dialogue System — Unity + Ink
 A modular, event-driven dialogue system for Unity, built around the [Ink](https://www.inklestudios.com/ink/) narrative scripting language (used in *Disco Elysium*, *Sable*, *Esoteric Ebb*).
 
-> ⚠️ This repository contains isolated scripts extracted from a larger in-development narrative game.
->
-> Some referenced types (`GameEvents`, `DialogueCharacterConfig`, `Sounds`, etc.) exist in the full project but are not included here.
+<div align="center">
+  <img src="RecordedExample.gif" width="80%"/>
+</div>
+
+> [!NOTE]
+This repository contains isolated scripts extracted from a larger in-development narrative game. Some referenced types (`GameEvents`, `DialogueCharacterConfig`, `Sounds`, etc.) exist in the full project but are not included here.
 
 ## Simplified Architecture Overview
 ``` 
